@@ -1,0 +1,7 @@
+class: net.gtaun.mk.shoebill.dialog.DialogStackPlugin
+name: MK's Shoebill Dialog Stack Plugin
+version: 0.1.0-SNAPSHOT
+buildNumber: ${build.number}
+buildDate: ${build.timestamp}
+authors: MK124
+description: 
